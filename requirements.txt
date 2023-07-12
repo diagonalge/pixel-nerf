@@ -2,6 +2,7 @@ torch
 torchvision
 pretrainedmodels
 pyhocon
+pyparsing==2.4.6
 imageio
 opencv-python
 imageio-ffmpeg
